@@ -1,0 +1,13 @@
+body{
+    background: black;
+    color: greenyellow;
+}
+#root{
+    font-size: 30px;
+    text-align: center;
+    margin: 20% 20%;
+    word-spacing: 20px;
+    border: 2px solid greenyellow;
+    padding: 30px;
+    border-radius: 10px;
+}
